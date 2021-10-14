@@ -1,0 +1,1 @@
+# shiba-nano-config.json
